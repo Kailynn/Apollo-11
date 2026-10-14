@@ -1,0 +1,22 @@
+## Interface: 120105, 120100, 120005, 120001, 120000
+## Title: MetierFacile
+## Notes: Détecte vos métiers et leurs niveaux par extension, indique quoi fabriquer et la liste exacte des composants à acheter pour atteindre le niveau max.
+## Notes-frFR: Détecte vos métiers et leurs niveaux par extension, indique quoi fabriquer et la liste exacte des composants à acheter pour atteindre le niveau max.
+## Author: Kailynn
+## Version: 1.0.0
+## SavedVariables: MetierFacileDB
+## SavedVariablesPerCharacter: MetierFacileCharDB
+## OptionalDeps: Auctionator, TradeSkillMaster
+## IconTexture: Interface\Icons\Trade_BlackSmithing
+## AddonCompartmentFunc: MetierFacile_OnAddonCompartmentClick
+## Category: Professions
+
+Locales.lua
+Constants.lua
+Core.lua
+Scanner.lua
+Planner.lua
+UI.lua
+
+Data\Guides_Classic.lua
+Data\Gathering.lua
